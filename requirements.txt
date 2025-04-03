@@ -1,5 +1,5 @@
 streamlit==1.16.0
 pandas==1.5.1
-numpy>=1.26.4  # Upgraded to avoid 'distutils' issue
+numpy==1.24.3
 joblib==1.3.0
 scikit-learn==1.6.1
