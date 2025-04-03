@@ -9,13 +9,6 @@ from sklearn.model_selection import train_test_split
 import math
 import sklearn
 
-
-print("Streamlit:", st.__version__)
-print("Pandas:", pd.__version__)
-print("NumPy:", np.__version__)
-print("Joblib:", joblib.__version__)
-print("Scikit-learn:", sklearn.__version__)
-
 # Set page config for better layout
 st.set_page_config(page_title="Patient Mortality Prediction", page_icon="💡", layout="wide")
 
