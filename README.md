@@ -1,6 +1,16 @@
+## 🏥 Hip Fracture Pre-operative Mortality Prediction
+
+This is a machine learning-based pre-operative risk calculator designed to predict **30-day mortality** in patients undergoing surgery for hip fracture. 
+
+It is intended for **educational and research purposes only** and should not be used as a substitute for professional medical judgment.
+
+🔬 Built using data from NSQIP and developed with explainable AI techniques.
+
+
 Access the calculator on: [https://trad-hipfracture-mortalitypredictor.streamlit.app/](https://trad-hipfracture-mortalitypredictor.streamlit.app/)
 
-If you use this tool or its outputs in your work, please cite:
+<br>
+<strong>If you use this tool or its outputs in your work, please cite:</strong>
         <br>
         <br>
         <em>
